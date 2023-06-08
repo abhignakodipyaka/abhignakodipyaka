@@ -1,7 +1,5 @@
 ### Hi there, I'm Abhigna 👋
-Recent UC Berkeley Data Science Graduate.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhigna-kodipyaka/)! 
+Recent UC Berkeley Data Science Graduate. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhigna-kodipyaka/)! 
 
 
 <!--
