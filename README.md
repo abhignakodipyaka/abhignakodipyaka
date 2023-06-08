@@ -1,5 +1,5 @@
 ### Hi there, I'm Abhigna 👋
-I am a student at UC Berkeley majoring in Data Science and minoring in Computer Science.
+Recent UC Berkeley Data Science Graduate.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/abhigna-kodipyaka/)! 
 
